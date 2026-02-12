@@ -92,6 +92,7 @@ Database integration using Spring Data JPA
 
 Building structured and maintainable Java applications
 
-👨‍💻 Author
+
+Author:
 
 Evangelia Bibasi
