@@ -1,14 +1,24 @@
-🚀 Features:
+📝 ToDo List Application – Spring Boot
 
-Create new tasks
+A full-stack ToDo List web application built using Spring Boot, Spring MVC, and Spring Data JPA.
+This project demonstrates how to develop a structured Java web application following the MVC architecture and best practices of the Spring ecosystem.
 
-View task list
+🚀 Overview
 
-Delete tasks
+This application allows users to manage daily tasks through a simple and user-friendly web interface.
+It was developed as part of a Spring Boot learning journey to understand how modern Java applications are structured and built.
 
-MVC architecture
+✨ Features:
 
-Integration with database using Spring Data
+➕ Create new tasks
+
+📋 View all tasks
+
+❌ Delete tasks
+
+🗂 Layered architecture (Controller – Service – Repository)
+
+💾 Database integration with Spring Data JPA
 
 🛠 Technologies Used:
 
@@ -28,53 +38,60 @@ HTML
 
 Eclipse IDE
 
-📂 Project Structure:
+🏗 Architecture:
 
-controller – Handles HTTP requests
+The project follows the MVC pattern:
 
-service – Business logic layer
+Controller Layer – Handles HTTP requests
 
-repository – Database interaction layer
+Service Layer – Contains business logic
 
-model/entity – Task entity
+Repository Layer – Communicates with the database
 
-templates – HTML views
+Model (Entity) – Represents the Task object
 
-▶ How to Run:
+Templates – HTML views
+
+▶ How to Run the Application:
 
 Clone the repository:
 
 git clone https://github.com/your-username/ToDoList.git
 
 
-Open the project in Eclipse or any IDE.
+Navigate to the project directory:
 
-Run the main Spring Boot application class.
+cd ToDoList
 
-Open your browser at:
+
+Build the project:
+
+mvn clean install
+
+
+Run the application:
+
+mvn spring-boot:run
+
+
+Open your browser and visit:
 
 http://localhost:8080
 
-📚 Purpose of the Project:
+📚 Learning Objectives:
 
-This project was developed as part of a Spring Boot course to understand:
+Through this project, I practiced:
 
-How Spring Boot simplifies application setup
+Understanding Spring Boot auto-configuration
 
 Dependency Injection
 
-MVC pattern in Spring
+MVC architecture in Spring
 
 Database integration using Spring Data JPA
 
-Building full-stack Java web applications
+Building structured and maintainable Java applications
 
-🎯 Learning Outcomes:
+👨‍💻 Author
 
-Understanding of Spring Boot architecture
-
-Creating REST/MVC applications
-
-Working with databases in Spring
-
-Managing dependencies with Maven
+Evangelia Bibasi
