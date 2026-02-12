@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: djedrzejak
+Build-Jdk: 11.0.9.1
+Implementation-Title: ToDoList
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lynxprogramming
+Implementation-URL: https://spring.io/projects/spring-boot/ToDoList
+Created-By: Maven Integration for Eclipse
+
