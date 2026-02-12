@@ -18,6 +18,8 @@ It was developed as part of a Spring Boot learning journey to understand how mod
 
 📋 View all tasks
 
+📋 Sorting Tasks based on the priority
+
 ❌ Delete tasks
 
 🗂 Layered architecture (Controller – Service – Repository)
