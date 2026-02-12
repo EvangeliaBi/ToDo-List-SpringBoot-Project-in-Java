@@ -1,3 +1,7 @@
+## Demo
+
+![Παρουσίαση Εφαρμογής](demo.gif)
+
 📝 ToDo List Application – Spring Boot
 
 A full-stack ToDo List web application built using Spring Boot, Spring MVC, and Spring Data JPA.
